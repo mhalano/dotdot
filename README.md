@@ -1,4 +1,4 @@
 dotdot
 ======
 
-Just a small project to manage dotfiles.
+Just a small tool to manage dotfiles.
